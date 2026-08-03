@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Kriangsit Pranee
 
-<!--
-**kriangsit-dev/kriangsit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Thailand 🇹🇭
 
-Here are some ideas to get you started:
+Backend-focused developer with experience building enterprise web applications using Java Spring MVC.
+Passionate about backend development, cloud technologies, and writing clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Backend**
+- Java
+- Spring MVC
+- REST API
+- PHP
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- Docker
+- Linux
+
+**Languages**
+- Python
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- AWS
+- System Design
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+## 📫 Contact
+
+- Email: aekungtvgame@gmail.com
+- GitHub: https://github.com/IchiDeity
