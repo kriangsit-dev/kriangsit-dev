@@ -17,12 +17,6 @@ Backend-focused developer with hands-on experience building and maintaining **pr
 **DevOps & Tools:** Docker · Docker Compose · Git / GitHub · DBeaver · Eclipse IDE · MobaXterm
 **Practices:** Agile · OOP · Full Stack Development
 
-## 📊 GitHub Stats
-
-![Kriangsit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriangsit-dev&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kriangsit-dev&layout=compact&hide_border=true)
-
 ## 📫 Contact
 
 - 📧 aekungtvgame@gmail.com
